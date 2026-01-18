@@ -1,0 +1,14 @@
+# Machine learning temporary & checkpoint files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data Privacy & Compliance: Exclude all raw datasets and lookup tables
+*.csv
+data/
+raw/
+
+# System files
+.DS_Store
+Thumbs.db
